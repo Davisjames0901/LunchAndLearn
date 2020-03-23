@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a554e72-d787-4dbb-838f-e18c758bcd18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Enum/Role.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/IPasswordService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Infrastructure/Persist/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0925C61E-8527-4323-BBEB-434559F136E0/2/IdentityDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C83C0E82-2F21-48FC-A29F-AB1AE23A0655/A/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Comments/Commands/CommentOnPresentation/CommentOnPresentationCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Web/_Imports.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Entities/Comment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C5F1FCA7-0C4D-4BD6-98DC-EFE14D39F654/3/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/IDateTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Entities/Vote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Users/Queries/GetUser/GetUserByEmailQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Presentations/Queries/GetPresentation/GetPresentationByIdQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Web/Pages/Counter.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Abstract/Auditable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Enum/VoteType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Common/Abstract/Pagination.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Common/Enum/PageSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/RealDateTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/PresentationTestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/FakedDateTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/UseCases/UserTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/UserTestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/CommentTestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Users/Queries/Login/LoginQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Web/Areas/Identity/RevalidatingIdentityAuthenticationStateProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/UseCases/PresentationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30506A01-0BFC-4443-BB49-984EBC055942/73/34bb4518/Mediator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Entities/Presentation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Presentations/Commands/CreatePresentation/CreatePresentationCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Domain/Enum/PresentationState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/UseCases/CommentTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/PasswordService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Web/App.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LunchAndLearn.Application.Tests/TestBootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LunchAndLearn.Infrastructure/LunchAndLearn.Infrastructure.csproj" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/LunchAndLearn.Domain.csproj" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/LunchAndLearn.Application.csproj" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Auditable.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/IDateTime.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Services/IDateTime.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/Presentation.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Enum/Role.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Enum/PageSize.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Abstract/Pagination.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Abstract.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Abstract/Pagination.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Enum/PageSize.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/TestBootstrapper.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/RealDateTime.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/IDateTime.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/FakedDateTime.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Enum/PresentationState.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Enum/VoteType.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Presentations/Commands/CommentOnPresentation/CommentOnPresentationCommand.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Comments/CommentOnPresentation/CommentOnPresentationCommand.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/CommentTestData.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/PresentationTestData.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Entities/Comment.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Entities/Vote.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Entities/Presentation.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/UseCases/PresentationTests.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Utilities/PasswordUtility.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Utilities/PasswordUtilities.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/PasswordUtilities.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Entities/User.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Users/Commands/CreateUser/CreateUserCommand.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/UseCases/CommentTests.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/UseCases/UserTests.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Interfaces/IApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Infrastructure/Persist/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Users/Queries/GetUser/GetUserByEmailQuery.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/PasswordService.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Users/Queries/Login/LoginQuery.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Common/Services/IPasswordService.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Presentations/Commands/CreatePresentation/CreatePresentationCommand.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Presentations/Queries/GetPresentation/GetPresentationByIdQuery.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application/Comments/Commands/CommentOnPresentation/CommentOnPresentationCommand.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Web/Areas/Identity/RevalidatingIdentityAuthenticationStateProvider.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Application.Tests/Utils/UserTestData.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Domain/Abstract/Auditable.cs" />
+        <option value="$PROJECT_DIR$/LunchAndLearn.Web/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XmTRx8V3E8RSgMYR3qtEs5M6lg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.LunchAndLearn.Web">
+    <configuration name="LunchAndLearn.Web" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/LunchAndLearn.Web/LunchAndLearn.Web.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="LunchAndLearn.Web" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LunchAndLearn.Web: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/LunchAndLearn.Web/LunchAndLearn.Web.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a554e72-d787-4dbb-838f-e18c758bcd18" name="Default Changelist" comment="" />
+      <created>1581650266029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581650266029</updated>
+      <workItem from="1581650269958" duration="10552000" />
+      <workItem from="1581699000356" duration="1198000" />
+      <workItem from="1581798129099" duration="3868000" />
+      <workItem from="1584055712932" duration="10792000" />
+      <workItem from="1584975394533" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="531" height="466" key="DebuggerActiveHint" timestamp="1584061801634">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="460" height="466" key="DebuggerActiveHint/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662136735" />
+    <state width="531" height="466" key="DebuggerActiveHint/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584061801634" />
+    <state width="2514" height="489" key="GridCell.Tab.0.bottom" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.0.bottom/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.0.bottom/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.0.center" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.0.center/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.0.center/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.0.left" timestamp="1584067077189">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.0.left/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.0.left/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077189" />
+    <state width="2514" height="489" key="GridCell.Tab.0.right" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.0.right/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.0.right/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.1.bottom" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.1.bottom/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.1.bottom/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.1.center" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.1.center/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.1.center/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.1.left" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.1.left/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.1.left/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.1.right" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.1.right/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.1.right/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.2.bottom" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.2.bottom/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.2.bottom/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.2.center" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.2.center/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.2.center/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.2.left" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.2.left/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.2.left/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.2.right" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.2.right/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.2.right/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.3.bottom" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.3.bottom/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.3.bottom/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.3.center" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.3.center/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.3.center/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.3.left" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.3.left/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.3.left/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.3.right" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.3.right/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147342" />
+    <state width="2514" height="489" key="GridCell.Tab.3.right/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.4.bottom" timestamp="1584067077191">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.4.bottom/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147343" />
+    <state width="2514" height="489" key="GridCell.Tab.4.bottom/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077191" />
+    <state width="2514" height="489" key="GridCell.Tab.4.center" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.4.center/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147343" />
+    <state width="2514" height="489" key="GridCell.Tab.4.center/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.4.left" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.4.left/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147343" />
+    <state width="2514" height="489" key="GridCell.Tab.4.left/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state width="2514" height="489" key="GridCell.Tab.4.right" timestamp="1584067077190">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2514" height="489" key="GridCell.Tab.4.right/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581662147343" />
+    <state width="2514" height="489" key="GridCell.Tab.4.right/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584067077190" />
+    <state x="3435" y="467" width="800" height="528" key="Rider.ProjectTemplateDialog.Size" timestamp="1584064393941">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3435" y="467" width="800" height="528" key="Rider.ProjectTemplateDialog.Size/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581652709664" />
+    <state x="3435" y="467" width="800" height="528" key="Rider.ProjectTemplateDialog.Size/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584064393941" />
+    <state x="3640" y="416" width="390" height="630" key="RiderGenerateDialog" timestamp="1581806365144">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3640" y="416" width="390" height="630" key="RiderGenerateDialog/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1581806365144" />
+    <state width="1280" height="708" key="XDebugger.FullValuePopup" timestamp="1584061796549">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1280" height="708" key="XDebugger.FullValuePopup/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584061796549" />
+    <state x="2560" y="78" width="1865" height="870" key="dock-window-1" timestamp="1584975396318">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2560" y="78" width="1865" height="870" key="dock-window-1/0.24.2560.1416/2560.0.2560.1440@2560.0.2560.1440" timestamp="1584975396318" />
+    <state x="0" y="101" width="1865" height="855" key="dock-window-1/2560.0.2560.1440/0.24.2560.1416@2560.0.2560.1440" timestamp="1584066807000" />
+  </component>
+</project>

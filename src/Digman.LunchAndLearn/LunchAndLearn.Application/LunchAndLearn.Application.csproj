@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Comments\Commands\UpdateComment" />
+      <Folder Include="Comments\Queries\GetComment" />
+      <Folder Include="Comments\Queries\GetCommentByPresentation" />
+      <Folder Include="Common\Behaviors" />
+      <Folder Include="Presentations\Commands\DeletePresentation" />
+      <Folder Include="Presentations\Commands\UpdatePresentation" />
+      <Folder Include="Presentations\Queries\GetPresentations" />
+      <Folder Include="Users\Commands\DeleteUser" />
+      <Folder Include="Users\Commands\UpdateUser" />
+      <Folder Include="Users\Queries\GetUsers" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="8.0.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="3.1.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\LunchAndLearn.Domain\LunchAndLearn.Domain.csproj" />
+      <ProjectReference Include="..\LunchAndLearn.Infrastructure\LunchAndLearn.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

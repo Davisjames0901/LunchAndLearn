@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Digman.LunchAndLearn.1581285466.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.2.0/build/netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.4.0/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Digman.LunchAndLearn.sln" t="IncludeFlat" />
+      <e p="LunchAndLearn.Application" t="IncludeRecursive">
+        <e p="Comments" t="Include">
+          <e p="Commands" t="Include">
+            <e p="CommentOnPresentation" t="Include">
+              <e p="CommentOnPresentationCommand.cs" t="Include" />
+            </e>
+            <e p="UpdateComment" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="GetComment" t="Include" />
+            <e p="GetCommentByPresentation" t="Include" />
+          </e>
+        </e>
+        <e p="Common" t="Include">
+          <e p="Abstract" t="Include">
+            <e p="Pagination.cs" t="Include" />
+          </e>
+          <e p="Behaviors" t="Include" />
+          <e p="Enum" t="Include">
+            <e p="PageSize.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="IDateTime.cs" t="Include" />
+            <e p="IPasswordService.cs" t="Include" />
+            <e p="PasswordService.cs" t="Include" />
+            <e p="RealDateTime.cs" t="Include" />
+          </e>
+        </e>
+        <e p="LunchAndLearn.Application.csproj" t="IncludeRecursive" />
+        <e p="Presentations" t="Include">
+          <e p="Commands" t="Include">
+            <e p="CreatePresentation" t="Include">
+              <e p="CreatePresentationCommand.cs" t="Include" />
+            </e>
+            <e p="DeletePresentation" t="Include" />
+            <e p="UpdatePresentation" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="GetPresentation" t="Include">
+              <e p="GetPresentationByIdQuery.cs" t="Include" />
+            </e>
+            <e p="GetPresentations" t="Include" />
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Users" t="Include">
+          <e p="Commands" t="Include">
+            <e p="DeleteUser" t="Include" />
+            <e p="UpdateUser" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="GetUser" t="Include">
+              <e p="GetUserByEmailQuery.cs" t="Include" />
+            </e>
+            <e p="GetUsers" t="Include" />
+            <e p="Login" t="Include">
+              <e p="LoginQuery.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LunchAndLearn.Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LunchAndLearn.Application.Tests" t="IncludeRecursive">
+        <e p="LunchAndLearn.Application.Tests.csproj" t="IncludeRecursive" />
+        <e p="TestBootstrapper.cs" t="Include" />
+        <e p="UseCases" t="Include">
+          <e p="CommentTests.cs" t="Include" />
+          <e p="PresentationTests.cs" t="Include" />
+          <e p="UserTests.cs" t="Include" />
+        </e>
+        <e p="Utils" t="Include">
+          <e p="CommentTestData.cs" t="Include" />
+          <e p="FakedDateTime.cs" t="Include" />
+          <e p="PresentationTestData.cs" t="Include" />
+          <e p="UserTestData.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LunchAndLearn.Application.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LunchAndLearn.Domain" t="IncludeRecursive">
+        <e p="Abstract" t="Include">
+          <e p="Auditable.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Comment.cs" t="Include" />
+          <e p="Presentation.cs" t="Include" />
+          <e p="Vote.cs" t="Include" />
+        </e>
+        <e p="Enum" t="Include">
+          <e p="PresentationState.cs" t="Include" />
+          <e p="Role.cs" t="Include" />
+          <e p="VoteType.cs" t="Include" />
+        </e>
+        <e p="LunchAndLearn.Domain.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LunchAndLearn.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LunchAndLearn.Infrastructure" t="IncludeRecursive">
+        <e p="Authentication" t="Include" />
+        <e p="LunchAndLearn.Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="Persist" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LunchAndLearn.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LunchAndLearn.Web" t="IncludeRecursive">
+        <e p="App.razor" t="Include" />
+        <e p="Areas" t="Include">
+          <e p="Identity" t="Include">
+            <e p="Pages" t="Include">
+              <e p="Account" t="Include">
+                <e p="LogOut.cshtml" t="Include" />
+              </e>
+              <e p="Shared" t="Include">
+                <e p="_LoginPartial.cshtml" t="Include" />
+              </e>
+            </e>
+            <e p="RevalidatingIdentityAuthenticationStateProvider.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Data" t="Include">
+          <e p="WeatherForecast.cs" t="Include" />
+          <e p="WeatherForecastService.cs" t="Include" />
+        </e>
+        <e p="LunchAndLearn.Web.csproj" t="IncludeRecursive" />
+        <e p="Pages" t="Include">
+          <e p="Counter.razor" t="Include" />
+          <e p="Error.razor" t="Include" />
+          <e p="FetchData.razor" t="Include" />
+          <e p="Index.razor" t="Include" />
+          <e p="_Host.cshtml" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="LoginDisplay.razor" t="Include" />
+          <e p="MainLayout.razor" t="Include" />
+          <e p="NavMenu.razor" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="_Imports.razor" t="Include" />
+        <e p="app.db" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="mono_crash.mem.33651.1.blob" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LunchAndLearn.Web.AssemblyInfo.cs" t="Include" />
+              <e p="LunchAndLearn.Web.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="bootstrap.min.css.map" t="Include" />
+            </e>
+            <e p="open-iconic" t="Include">
+              <e p="FONT-LICENSE" t="Include" />
+              <e p="ICON-LICENSE" t="Include" />
+              <e p="README.md" t="Include" />
+              <e p="font" t="Include">
+                <e p="css" t="Include">
+                  <e p="open-iconic-bootstrap.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="open-iconic.eot" t="Include" />
+                  <e p="open-iconic.otf" t="Include" />
+                  <e p="open-iconic.svg" t="Include" />
+                  <e p="open-iconic.ttf" t="Include" />
+                  <e p="open-iconic.woff" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+        </e>
+      </e>
+      <e p="Tests" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
